@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ed6c8ae.css",
+    "main.js": "/static/js/main.55adbc19.js",
+    "static/media/footer__bg.png": "/static/media/footer__bg.5b5df261d241e7280aa2.png",
+    "static/media/womens.svg": "/static/media/womens.6f1a8e612e49caece42b1196058df059.svg",
+    "static/media/jewelry.svg": "/static/media/jewelry.0d08a17a191dfd25498baba29d084dbd.svg",
+    "static/media/basket.svg": "/static/media/basket.d3a69d84b21db7926ec1a32880f9d294.svg",
+    "static/media/mens.svg": "/static/media/mens.c4f3bdef9df8834bf96f16ee70640695.svg",
+    "static/media/refresh.svg": "/static/media/refresh.7bb64f493f868efe52f09dd7f1799104.svg",
+    "static/media/basket_card.svg": "/static/media/basket_card.a8c84e3262a447f6b906bbcf898a8ea4.svg",
+    "static/media/electronics.svg": "/static/media/electronics.022c0cafa4900da6f3b726e94c732dad.svg",
+    "static/media/all.svg": "/static/media/all.88964816ae65dbdafe23ea4891ef9e86.svg",
+    "static/media/twitter.svg": "/static/media/twitter.ba21da02aaaa0e3ce72209929d837329.svg",
+    "static/media/heart.svg": "/static/media/heart.4739dffd80a57212c1e25c9887b65a0e.svg",
+    "static/media/person.svg": "/static/media/person.acd6212b477d4919a1ec8cd9028a376a.svg",
+    "static/media/inst.svg": "/static/media/inst.4f8a8f6777333c5738132fd7440e2a36.svg",
+    "static/media/next.svg": "/static/media/next.26ce4348019d94d85bd23c0b66967940.svg",
+    "static/media/prev.svg": "/static/media/prev.b428e2a761acf02c0ab2e4f27fdcf0cb.svg",
+    "static/media/search.svg": "/static/media/search.f5671ccc1e02dd0be2b3d46a7e0eeb59.svg",
+    "index.html": "/index.html",
+    "static/media/fb.svg": "/static/media/fb.72a6ba6c94e97fcb8b675d8b02734979.svg",
+    "main.4ed6c8ae.css.map": "/static/css/main.4ed6c8ae.css.map",
+    "main.55adbc19.js.map": "/static/js/main.55adbc19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed6c8ae.css",
+    "static/js/main.55adbc19.js"
+  ]
+}
